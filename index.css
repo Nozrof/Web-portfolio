@@ -8,7 +8,7 @@ body {
   flex-direction: row;
   padding: 20px;
   justify-content: center;
-  background: url(".img/header-bg.png") no-repeat center center;
+  background: url("./img/header-bg.png") no-repeat center center;
 }
 .img-content {
   width: 50%;
@@ -47,7 +47,7 @@ h1 {
   flex-direction: row;
   padding: 20px;
   justify-content: center;
-  background: url(".img/biography-bg.png") no-repeat center center/cover;
+  background: url("./img/biography-bg.png") no-repeat center center/cover;
 }
 .text-color2 {
   font-weight: bolder;
@@ -82,12 +82,12 @@ h1 {
 }
 .hey {
   margin-top: 100px;
-  background: url(".img/latest-work-bg.png") no-repeat center center/cover;
+  background: url("./img/latest-work-bg.png") no-repeat center center/cover;
   height: 500px;
 }
 .client {
   text-align: center;
-  background: url(".img/footer-bg.png") no-repeat center center/cover;
+  background: url("./img/footer-bg.png") no-repeat center center/cover;
 }
 .char {
   margin-bottom: 50px;
